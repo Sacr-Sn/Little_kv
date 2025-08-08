@@ -1,0 +1,15 @@
+/home/knight/cpp_pros/little_kv/build/CMakeFiles/test.dir
+/home/knight/cpp_pros/little_kv/build/CMakeFiles/edit_cache.dir
+/home/knight/cpp_pros/little_kv/build/CMakeFiles/rebuild_cache.dir
+/home/knight/cpp_pros/little_kv/build/src/CMakeFiles/kv_alpha.dir
+/home/knight/cpp_pros/little_kv/build/src/CMakeFiles/cli.dir
+/home/knight/cpp_pros/little_kv/build/src/CMakeFiles/test.dir
+/home/knight/cpp_pros/little_kv/build/src/CMakeFiles/edit_cache.dir
+/home/knight/cpp_pros/little_kv/build/src/CMakeFiles/rebuild_cache.dir
+/home/knight/cpp_pros/little_kv/build/app/CMakeFiles/main_kv.dir
+/home/knight/cpp_pros/little_kv/build/app/CMakeFiles/test.dir
+/home/knight/cpp_pros/little_kv/build/app/CMakeFiles/edit_cache.dir
+/home/knight/cpp_pros/little_kv/build/app/CMakeFiles/rebuild_cache.dir
+/home/knight/cpp_pros/little_kv/build/test/CMakeFiles/test.dir
+/home/knight/cpp_pros/little_kv/build/test/CMakeFiles/edit_cache.dir
+/home/knight/cpp_pros/little_kv/build/test/CMakeFiles/rebuild_cache.dir
